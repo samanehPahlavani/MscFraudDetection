@@ -59,11 +59,13 @@ Ethereum &  Tron
 	<p>Table2. Notebooks</p>
 </div>
 ------------------------------------------------------------------------------------------------------------
-# Preprocessing: 
+<br>
+<b>Preprocessing: </b> 
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/EthereumPreprocessing.ipynb" target="_blank">Preprocessing</a>
 we used pearson correlation heatmap for droping features 
 StandardScalar for NAN value
 and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
+<br>
 ------------------------------------------------------------------------------------------------------------
 
 
