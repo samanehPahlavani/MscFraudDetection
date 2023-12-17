@@ -71,5 +71,7 @@ and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 ML models ( KNN, Ranom Forest(RF))
 <br>
 <strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model1_ML(KNN).ipynb" target="_blank">KNN Fraud Detection </a></strong>
+<br>
+<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model2_ML(RF).ipynb" target="_blank"> Ranom Forest(RF) Fraud Detection </a></strong>
 
 
