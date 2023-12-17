@@ -67,5 +67,9 @@ StandardScalar for NAN value
 and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 <br>
 ------------------------------------------------------------------------------------------------------------
+<br> <br>
+ML models ( KNN, Ranom Forest(RF))
+<br>
+<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model1_ML(KNN).ipynb" target="_blank">KNN Fraud Detection </a></strong>
 
 
