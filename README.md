@@ -81,3 +81,5 @@ ML models ( KNN, Ranom Forest(RF))
 
 <br>
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model5_SVM(SupportVectorMachine).ipynb" target="_blank"> SVM </a></strong>
+<br>
+<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model6_EXT(ExtraTrees).ipynb" target="_blank"> ExtraTrees </a></strong>
