@@ -74,5 +74,8 @@ ML models ( KNN, Ranom Forest(RF))
 <br>
 <strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model2_ML(RF).ipynb" target="_blank"> Ranom Forest(RF) Fraud Detection </a></strong>
 <br>
+<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model3_ML(MLP).ipynb" target="_blank"> MLP </a></strong>
+
+<br>
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model4_LR(LogisticRegression).ipynb" target="_blank"> Logistic Regression </a></strong>
 
