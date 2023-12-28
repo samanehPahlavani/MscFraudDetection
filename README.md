@@ -68,7 +68,7 @@ and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 <br>
 ------------------------------------------------------------------------------------------------------------
 <br> <br>
-ML models ( KNN, Ranom Forest(RF))
+ML  & Ensemble & Deep leraning  models
 <br>
 <strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model1_ML(KNN).ipynb" target="_blank">KNN Fraud Detection </a></strong>
 <br>
@@ -83,3 +83,6 @@ ML models ( KNN, Ranom Forest(RF))
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model5_SVM(SupportVectorMachine).ipynb" target="_blank"> SVM </a></strong>
 <br>
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model6_EXT(ExtraTrees).ipynb" target="_blank"> ExtraTrees </a></strong>
+<br>
+<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model7_NB(Naïve Bayes).ipynb" target="_blank"> Naïve Bayes </a></strong>
+
