@@ -84,5 +84,5 @@ ML  & Ensemble & Deep leraning  models
 <br>
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model6_EXT(ExtraTrees).ipynb" target="_blank"> ExtraTrees </a></strong>
 <br>
-<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model7_NB(Naïve Bayes).ipynb" target="_blank"> Naïve Bayes </a></strong>
+<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model7_NB(Na%C3%AFve_Bayes).ipynb" target="_blank"> Naïve Bayes </a></strong>
 
