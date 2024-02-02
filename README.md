@@ -60,7 +60,7 @@ Ethereum &  Tron
 </div>
 ------------------------------------------------------------------------------------------------------------
 <br>
-<b>Preprocessing: </b> 
+<b>First:Preprocessing: </b> 
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/EthereumPreprocessing.ipynb" target="_blank">Preprocessing</a>
 we used pearson correlation heatmap for droping features 
 StandardScalar for NAN value
@@ -68,7 +68,7 @@ and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 <br>
 ------------------------------------------------------------------------------------------------------------
 <br> <br>
-ML  & Ensemble & Deep leraning  models
+ML  & Ensemble
 <br>
 <strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model1_ML(KNN).ipynb" target="_blank">KNN Fraud Detection </a></strong>
 <br>
@@ -85,4 +85,13 @@ ML  & Ensemble & Deep leraning  models
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model6_EXT(ExtraTrees).ipynb" target="_blank"> ExtraTrees </a></strong>
 <br>
 <strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model7_NB(Na%C3%AFve_Bayes).ipynb" target="_blank"> Naïve Bayes </a></strong>
-
+------------------------------------------------------------------------------------------------------------
+<br>
+<b>Second:Preprocessing </b> 
+<a href="#" target="_blank">Preprocessing</a>
+we used pearson correlation heatmap for droping features 
+StandardScalar for NAN value
+and Embalanced Fraud and Non-Fraud in dataset by : SMOTE , Undersampling and compared them
+<br>
+------------------------------------------------------------------------------------------------------------
+<br> <br>
