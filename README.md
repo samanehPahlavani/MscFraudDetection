@@ -88,7 +88,7 @@ ML  & Ensemble
 ------------------------------------------------------------------------------------------------------------
 <br>
 <b>Second:Preprocessing </b> 
-<a href="#" target="_blank">Preprocessing</a>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/PreprocessingEther.ipynb" target="_blank">Preprocessing</a>
 we used pearson correlation heatmap for droping features 
 StandardScalar for NAN value
 and Embalanced Fraud and Non-Fraud in dataset by : SMOTE , Undersampling and compared them
