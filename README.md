@@ -91,6 +91,10 @@ ML
 9- Extra Trees<br>
 </strong>
 <br>
+------------------------------------------------------------------------------------------------------------
+CNN
+
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumCNN.ipynb" target="_blank"> CNN  </a>
  
 ------------------------------------------------------------------------------------------------------------
 <br>
