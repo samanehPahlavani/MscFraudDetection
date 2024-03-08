@@ -68,23 +68,30 @@ and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 <br>
 ------------------------------------------------------------------------------------------------------------
 <br> <br>
-ML  & Ensemble
+ML   
 <br>
-<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model1_ML(KNN).ipynb" target="_blank">KNN Fraud Detection </a></strong>
-<br>
-<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model2_ML(RF).ipynb" target="_blank"> Ranom Forest(RF) Fraud Detection </a></strong>
-<br>
-<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model3_ML(MLP).ipynb" target="_blank"> MLP </a></strong>
+<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumMLModels.ipynb" target="_blank"> 9 ML Models Fraud Detection </a>
 
-<br>
-<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model4_LR(LogisticRegression).ipynb" target="_blank"> Logistic Regression </a></strong>
+1-LogisticRegression(LR)<br>
 
+2-SVM (Support Vector Machine)<br>
+
+3-RandomForest(RF)<br>
+
+4-DT<br>
+
+5-XGBOOST<br>
+
+6-MLP<br>
+
+7-Naive Bayes<br>
+
+8-KNN<br>
+
+9- Extra Trees<br>
+</strong>
 <br>
-<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model5_SVM(SupportVectorMachine).ipynb" target="_blank"> SVM </a></strong>
-<br>
-<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model6_EXT(ExtraTrees).ipynb" target="_blank"> ExtraTrees </a></strong>
-<br>
-<strong><a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/Model7_NB(Na%C3%AFve_Bayes).ipynb" target="_blank"> Naïve Bayes </a></strong>
+ 
 ------------------------------------------------------------------------------------------------------------
 <br>
 <b>Second:Preprocessing </b> 
