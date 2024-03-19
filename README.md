@@ -92,9 +92,11 @@ ML
 </strong>
 <br>
 ------------------------------------------------------------------------------------------------------------
-CNN
+10-CNN
 
-<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumCNN.ipynb" target="_blank"> CNN  </a>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumCNN.ipynb" target="_blank"> CNN  </a> <br>
+11.LSTM <br>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumLSTMDeep.ipynb" target="_blank">LSTM </a>
  
 ------------------------------------------------------------------------------------------------------------
 <br>
