@@ -96,7 +96,8 @@ ML
 
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumCNN.ipynb" target="_blank"> CNN  </a> <br>
 11.LSTM <br>
-<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumLSTMDeep.ipynb" target="_blank">LSTM </a>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumLSTMDeep.ipynb" target="_blank">LSTM </a> <br>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/EnsembleBestModels.ipynb" target="_blank"> Ensemble Extra trees && XGBoost and feature extraction with Random forest </a> <br>
  
 ------------------------------------------------------------------------------------------------------------
 <br>
