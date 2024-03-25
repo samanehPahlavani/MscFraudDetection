@@ -59,8 +59,9 @@ Ethereum &  Tron
 	<p>Table2. Notebooks</p>
 </div>
 ------------------------------------------------------------------------------------------------------------
-<br>
-<a "https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TronDataGatheringSample" target="_blank"> Tron Data Gathering sample </a>
+<br><br><br>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TronDataGatheringSample" target="_blank"> Tron Data Gathering sample </a>
+<br><br><br>
 ------------------------------------------------------------------------------------------------------------
 <br>
 <b>First:Preprocessing: </b> 
@@ -97,7 +98,8 @@ ML
 ------------------------------------------------------------------------------------------------------------
 Deep Learning: <br><br>
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumCNN.ipynb" target="_blank">CNN </a> <br>
-<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumLSTMDeep.ipynb" target="_blank">LSTM </a> <br>
+<a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumLSTMDeep.ipynb" target="_blank">LSTM </a> <br> <br>
+Ensemble : <br>
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/EnsembleBestModels.ipynb" target="_blank"> Ensemble Extra trees && XGBoost and feature extraction with Random forest </a> <br> <br>
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TronFraudDetection.ipynb" target="_blank" > TronFraudDetection </a> <br>
 ------------------------------------------------------------------------------------------------------------
