@@ -60,6 +60,9 @@ Ethereum &  Tron
 </div>
 ------------------------------------------------------------------------------------------------------------
 <br>
+<a "https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TronDataGatheringSample" target="_blank"> Tron Data Gathering sample </a>
+------------------------------------------------------------------------------------------------------------
+<br>
 <b>First:Preprocessing: </b> 
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/EthereumPreprocessing.ipynb" target="_blank">Preprocessing</a>
 we used pearson correlation heatmap for droping features 
@@ -92,10 +95,9 @@ ML
 </strong>
 <br>
 ------------------------------------------------------------------------------------------------------------
-10-CNN
 
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumCNN.ipynb" target="_blank"> CNN  </a> <br>
-11.LSTM <br>
+ 
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumLSTMDeep.ipynb" target="_blank">LSTM </a> <br>
 <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/EnsembleBestModels.ipynb" target="_blank"> Ensemble Extra trees && XGBoost and feature extraction with Random forest </a> <br>
  <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TronFraudDetection.ipynb" target="_blank" > TronFraudDetection </a>
