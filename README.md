@@ -74,7 +74,7 @@ and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 <br> <br>
 ML   
 <br>
-<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumMLModels.ipynb" target="_blank"> 9 ML Models Fraud Detection </a>
+<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumModelsC.ipynb" target="_blank"> 9 ML Models Fraud Detection </a>
 
 1-LogisticRegression(LR)<br>
 
