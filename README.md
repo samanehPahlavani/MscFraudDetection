@@ -105,5 +105,6 @@ we used pearson correlation heatmap for droping features
 StandardScalar for NAN value
 and Embalanced Fraud and Non-Fraud in dataset by : SMOTE , Undersampling and compared them
 <br>
+8 Ensemble Proposed and compare them  <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/ML%26%26EnsembleLastEtereumModels.ipynb" target="_blank"> Ensemble</a> <br> <br>
 ------------------------------------------------------------------------------------------------------------
 <br> <br>
