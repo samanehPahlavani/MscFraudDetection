@@ -84,8 +84,8 @@ ML
 6-MLP<br>
 7-Naive Bayes<br>
 8-KNN<br>
-8-Extra Trees<br>
-9- AdaBoost<br>
+9-Extra Trees<br>
+10- AdaBoost<br>
 
  
 </strong>
