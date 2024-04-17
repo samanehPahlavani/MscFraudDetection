@@ -74,26 +74,20 @@ and Embalanced Fraud and Non-Fraud in dataset by sampling randomly
 <br> <br>
 ML   
 <br>
-<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumModelsC.ipynb" target="_blank"> 9 ML Models Fraud Detection </a>
+<strong>   <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/LastEtereumModelsC.ipynb" target="_blank"> 10 ML Models Fraud Detection </a>
 
 1-LogisticRegression(LR)<br>
-
 2-SVM (Support Vector Machine)<br>
-
 3-RandomForest(RF)<br>
-
 4-DT<br>
-
 5-XGBOOST<br>
-
 6-MLP<br>
-
 7-Naive Bayes<br>
-
 8-KNN<br>
+8-Extra Trees<br>
+9- AdaBoost<br>
 
-9- Extra Trees<br>
-10- AdaBoost<br>
+ 
 </strong>
 <br>
 ------------------------------------------------------------------------------------------------------------
