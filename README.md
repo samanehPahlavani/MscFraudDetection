@@ -111,4 +111,4 @@ Ensemble Proposed and compare them  <a href="https://github.com/samanehPahlavani
 ------------------------------------------------------------------------------------------------------------
 <br> <br>
 
-Last Code Of all to check : <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TEST.ipynb" target="_blank">  All Models</a>
+Last Code Of all to check Models and 7 Ensemble : <a href="https://github.com/samanehPahlavani/MscFraudDetection/blob/main/TEST.ipynb" target="_blank">  All Models</a>
